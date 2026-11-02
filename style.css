@@ -66,3 +66,34 @@
   .hero.hero-lago .hero-description { font-size: 15px; }
   .hero.hero-lago .actions { gap: 9px; }
 }
+<!-- SECÇÃO AUTORIA: substituir apenas o bloco anterior com id="autoria" -->
+<section class="section section-muted" id="autoria" aria-labelledby="autoria-title">
+  <div class="container">
+    <span class="eyebrow">As pessoas por detrás da história</span>
+    <h2 id="autoria-title">Autoria e desenvolvimento do projeto</h2>
+    <p><strong>Quando a Vida Muda de Casa</strong> nasceu no contexto da unidade curricular de Intervenção em Promoção e Proteção de Crianças e Jovens, da Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto (FPCEUP), sob orientação da Professora Doutora Margarida Henriques.</p>
+
+    <div class="autoria-blocos">
+      <article class="autoria-bloco">
+        <h3>Criação original da história</h3>
+        <p>O desenvolvimento inicial resultou de um trabalho coletivo de:</p>
+        <p>Andreia Correia · Carolina Magalhães · Érica Bacêlo · Lara Barbosa · Margarida Brás · Maria Leonor Santos · Soraia Soares · Susana Magalhães.</p>
+        <p><strong>Orientação:</strong> Professora Doutora Margarida Henriques.</p>
+      </article>
+
+      <article class="autoria-bloco">
+        <h3>Continuidade, adaptação e desenvolvimento do projeto</h3>
+        <p><strong>Susana Magalhães</strong><br><em>Mestranda em Psicologia da Educação e do Desenvolvimento Humano | FPCEUP</em></p>
+        <p>O projeto encontra-se numa nova fase de desenvolvimento, no âmbito da dissertação de mestrado de Susana Magalhães, na Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto.</p>
+        <p>Esta fase dá continuidade ao trabalho original, através da revisão e adaptação das histórias para diferentes etapas do desenvolvimento infantil, da criação de materiais e atividades complementares e do desenvolvimento de uma plataforma digital para disponibilização dos recursos.</p>
+        <p>Paralelamente, está a ser desenvolvida uma investigação centrada na aceitabilidade, adequação, viabilidade e intenção de utilização dos recursos, procurando contribuir para o seu aperfeiçoamento e potencial aplicação em contextos de promoção e proteção de crianças e jovens.</p>
+        <p>O trabalho pretende preservar a identidade e os objetivos do projeto original, promovendo a sua evolução, acessibilidade e divulgação científica.</p>
+      </article>
+
+      <article class="autoria-bloco">
+        <h3>Colaborações e agradecimentos</h3>
+        <p>A adaptação da história para Língua Gestual Portuguesa conta com o contributo referido nos materiais originais do projeto, incluindo a interpretação de Vânia Ferreira. Os créditos institucionais e técnicos serão apresentados com a formulação definitiva após confirmação.</p>
+      </article>
+    </div>
+  </div>
+</section>
