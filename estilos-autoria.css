@@ -1,0 +1,8 @@
+/* Secção Autoria — adicionar ao fim de style.css */
+.autoria-blocos{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin-top:32px}
+.autoria-bloco{background:#fff;border:1px solid #e3e7de;border-radius:20px;padding:28px}
+.autoria-bloco:nth-child(2){background:#f0f3eb;border-color:#dce6d8}
+.autoria-bloco:last-child{grid-column:1/-1}
+.autoria-bloco h3{color:#344c3d;margin-bottom:15px}
+.autoria-bloco p{color:#596b60;margin-bottom:13px}
+@media(max-width:800px){.autoria-blocos{grid-template-columns:1fr}.autoria-bloco:last-child{grid-column:auto}}
